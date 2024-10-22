@@ -5,9 +5,7 @@ This directory is for teaching and starting Python projects towards any quantita
 intended to be used for, any installation instructions or important details about any of the files, and updates about our progress in in-person meetings.
 
 
-## Getting Started
-
-### Introduction to Python
+## Introduction to Python
 
 **`python101.ipynb`** contains exercises on Python basics, including variables, loops, conditions, functions, complex datatypes, classes, and the popular libraries Pandas,
 yFinance, and matPlotLib. The exercies have been modified from IMC Prosperity's programming resources on YouTube, and written by Evan Schreiner.
@@ -16,3 +14,8 @@ yFinance, and matPlotLib. The exercies have been modified from IMC Prosperity's 
 a given problem! This document also contains further notes and commentary not included in the orignal.
 
 ***10/21/24*** Started working through exercises. Worked through "Widening the Nets", and briefly discussed dictionaries.
+
+
+## DEMO Project
+
+Review MovAvg.md for an introduction to the Moving Average Crossover Strategy.
